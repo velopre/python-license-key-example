@@ -26,7 +26,7 @@ cd python-license-key-example
 
 ### 2. Install the Keyfern SDK
 ```bash
-pip install https://keyfern.com/dl/keyfern-1.0.0-py3-none-any.whl
+pip install keyfern
 ```
 
 ### 3. Configure environment variables
